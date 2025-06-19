@@ -1,0 +1,182 @@
+{
+  "page": 1,
+  "boxed_image": "image_2_boxed.png",
+  "data": {
+    "row_00": [
+      {
+        "text": "ESSON",
+        "align": "right"
+      },
+      {
+        "text": "TOPIC",
+        "align": "left"
+      },
+      {
+        "text": "ASSIGNMENT",
+        "align": "left"
+      },
+      {
+        "text": "Points",
+        "align": "left"
+      },
+      {
+        "text": "DUE",
+        "align": "left"
+      }
+    ],
+    "row_01": [
+      {
+        "text": "1",
+        "align": "left"
+      },
+      {
+        "text": "What is Distance Learning?",
+        "align": "left"
+      },
+      {
+        "text": "Wiki #1",
+        "align": "left"
+      },
+      {
+        "text": "10",
+        "align": "left"
+      },
+      {
+        "text": "March 10",
+        "align": "center"
+      }
+    ],
+    "row_02": [
+      {
+        "text": "",
+        "align": "unknown"
+      },
+      {
+        "text": "Learning?",
+        "align": "left"
+      },
+      {
+        "text": "Presentation",
+        "align": "center"
+      },
+      {
+        "text": "20",
+        "align": "left"
+      },
+      {
+        "text": "fo",
+        "align": "left"
+      }
+    ],
+    "row_03": [
+      {
+        "text": "2",
+        "align": "left"
+      },
+      {
+        "text": "",
+        "align": "left"
+      },
+      {
+        "text": "Brief Paper",
+        "align": "left"
+      },
+      {
+        "text": "Ea",
+        "align": "left"
+      },
+      {
+        "text": "March 24",
+        "align": "left"
+      }
+    ],
+    "row_04": [
+      {
+        "text": "2",
+        "align": "left"
+      },
+      {
+        "text": "SS",
+        "align": "left"
+      },
+      {
+        "text": "Spring Break",
+        "align": "left"
+      },
+      {
+        "text": "———————",
+        "align": "left"
+      },
+      {
+        "text": "LL",
+        "align": "left"
+      }
+    ],
+    "row_05": [
+      {
+        "text": "3",
+        "align": "left"
+      },
+      {
+        "text": "Distance",
+        "align": "left"
+      },
+      {
+        "text": "Discussion #1",
+        "align": "left"
+      },
+      {
+        "text": "10",
+        "align": "left"
+      },
+      {
+        "text": "April 7",
+        "align": "center"
+      }
+    ],
+    "row_06": [
+      {
+        "text": "3",
+        "align": "left"
+      },
+      {
+        "text": "Learners",
+        "align": "left"
+      },
+      {
+        "text": "Group Project",
+        "align": "left"
+      },
+      {
+        "text": "so",
+        "align": "left"
+      },
+      {
+        "text": "April 14",
+        "align": "center"
+      }
+    ],
+    "row_07": [
+      {
+        "text": "4",
+        "align": "left"
+      },
+      {
+        "text": "Media Selection",
+        "align": "left"
+      },
+      {
+        "text": "Blog #1",
+        "align": "left"
+      },
+      {
+        "text": "l 10",
+        "align": "left"
+      },
+      {
+        "text": "April 21",
+        "align": "center"
+      }
+    ]
+  }
+}

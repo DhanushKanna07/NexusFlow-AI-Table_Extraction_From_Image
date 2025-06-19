@@ -1,0 +1,348 @@
+{
+  "page": 4,
+  "boxed_image": "image_7_boxed.png",
+  "data": {
+    "row_00": [
+      {
+        "text": "Units a month",
+        "align": "center"
+      },
+      {
+        "text": "5 Ampere",
+        "align": "center"
+      },
+      {
+        "text": "5 Ampere",
+        "align": "center"
+      },
+      {
+        "text": "15 Ampere",
+        "align": "center"
+      },
+      {
+        "text": "15 Ampere",
+        "align": "center"
+      },
+      {
+        "text": "30 Ampere",
+        "align": "center"
+      },
+      {
+        "text": "30 Ampere",
+        "align": "center"
+      },
+      {
+        "text": "60 Ampere",
+        "align": "center"
+      },
+      {
+        "text": "60 Ampere",
+        "align": "center"
+      }
+    ],
+    "row_01": [
+      {
+        "text": "Units a month",
+        "align": "center"
+      },
+      {
+        "text": "Service charge",
+        "align": "center"
+      },
+      {
+        "text": "Per unit rate",
+        "align": "center"
+      },
+      {
+        "text": "Service charge",
+        "align": "center"
+      },
+      {
+        "text": "Per unit rate",
+        "align": "center"
+      },
+      {
+        "text": "Service charge",
+        "align": "center"
+      },
+      {
+        "text": "Per unit rate",
+        "align": "center"
+      },
+      {
+        "text": "Service charge",
+        "align": "center"
+      },
+      {
+        "text": "Per unit rate",
+        "align": "center"
+      }
+    ],
+    "row_02": [
+      {
+        "text": "0-20",
+        "align": "center"
+      },
+      {
+        "text": "Rs 30",
+        "align": "center"
+      },
+      {
+        "text": "Rs3",
+        "align": "center"
+      },
+      {
+        "text": "Rs 50",
+        "align": "center"
+      },
+      {
+        "text": "Rs4",
+        "align": "center"
+      },
+      {
+        "text": "Rs 75",
+        "align": "center"
+      },
+      {
+        "text": "Rs 5",
+        "align": "center"
+      },
+      {
+        "text": "Rs 125",
+        "align": "left"
+      },
+      {
+        "text": "Rs 6",
+        "align": "center"
+      }
+    ],
+    "row_03": [
+      {
+        "text": "21-30",
+        "align": "center"
+      },
+      {
+        "text": "Rs 50",
+        "align": "center"
+      },
+      {
+        "text": "Rs7",
+        "align": "center"
+      },
+      {
+        "text": "Rs 75",
+        "align": "center"
+      },
+      {
+        "text": "",
+        "align": "center"
+      },
+      {
+        "text": "Rs 100",
+        "align": "left"
+      },
+      {
+        "text": "Rs7",
+        "align": "center"
+      },
+      {
+        "text": "Rs 150",
+        "align": "left"
+      },
+      {
+        "text": "Rs7",
+        "align": "center"
+      }
+    ],
+    "row_04": [
+      {
+        "text": "31-50",
+        "align": "center"
+      },
+      {
+        "text": "Rs 75",
+        "align": "center"
+      },
+      {
+        "text": "Rs 8.50",
+        "align": "left"
+      },
+      {
+        "text": "Rs 100",
+        "align": "center"
+      },
+      {
+        "text": "Rs 8.50",
+        "align": "left"
+      },
+      {
+        "text": "Rs 125",
+        "align": "left"
+      },
+      {
+        "text": "Rs 8.50",
+        "align": "left"
+      },
+      {
+        "text": "Rs 175",
+        "align": "left"
+      },
+      {
+        "text": "Rs 8.50",
+        "align": "center"
+      }
+    ],
+    "row_05": [
+      {
+        "text": "51-150",
+        "align": "right"
+      },
+      {
+        "text": "Rs 100",
+        "align": "center"
+      },
+      {
+        "text": "Rs 10",
+        "align": "left"
+      },
+      {
+        "text": "Rs 125",
+        "align": "center"
+      },
+      {
+        "text": "Rs 10",
+        "align": "center"
+      },
+      {
+        "text": "Rs 150",
+        "align": "left"
+      },
+      {
+        "text": "Rs 10",
+        "align": "center"
+      },
+      {
+        "text": "Rs 200",
+        "align": "left"
+      },
+      {
+        "text": "Rs 10",
+        "align": "center"
+      }
+    ],
+    "row_06": [
+      {
+        "text": "151-250",
+        "align": "right"
+      },
+      {
+        "text": "Rs 125",
+        "align": "center"
+      },
+      {
+        "text": "Rs 11",
+        "align": "left"
+      },
+      {
+        "text": "Rs 150",
+        "align": "center"
+      },
+      {
+        "text": "Rs 11",
+        "align": "center"
+      },
+      {
+        "text": "Rs 175",
+        "align": "left"
+      },
+      {
+        "text": "Rs 11",
+        "align": "center"
+      },
+      {
+        "text": "Rs 225",
+        "align": "left"
+      },
+      {
+        "text": "Rs 11",
+        "align": "center"
+      }
+    ],
+    "row_07": [
+      {
+        "text": "251-400",
+        "align": "right"
+      },
+      {
+        "text": "Rs 150",
+        "align": "center"
+      },
+      {
+        "text": "Rs 12",
+        "align": "left"
+      },
+      {
+        "text": "Rs 175",
+        "align": "center"
+      },
+      {
+        "text": "Rs 12",
+        "align": "center"
+      },
+      {
+        "text": "Rs 200",
+        "align": "center"
+      },
+      {
+        "text": "Rs 12",
+        "align": "center"
+      },
+      {
+        "text": "Rs 250",
+        "align": "left"
+      },
+      {
+        "text": "Rs 12",
+        "align": "center"
+      }
+    ],
+    "row_08": [
+      {
+        "text": "Above 400",
+        "align": "right"
+      },
+      {
+        "text": "Rs 175",
+        "align": "center"
+      },
+      {
+        "text": "Rs 13",
+        "align": "center"
+      },
+      {
+        "text": "Rs 200",
+        "align": "center"
+      },
+      {
+        "text": "Rs 13",
+        "align": "center"
+      },
+      {
+        "text": "Rs 225",
+        "align": "center"
+      },
+      {
+        "text": "Rs 13",
+        "align": "center"
+      },
+      {
+        "text": "Rs 275",
+        "align": "left"
+      },
+      {
+        "text": "Rs 13",
+        "align": "center"
+      }
+    ]
+  }
+}

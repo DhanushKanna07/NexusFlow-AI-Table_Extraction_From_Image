@@ -1,0 +1,186 @@
+{
+  "page": 1,
+  "boxed_image": "image_1_boxed.png",
+  "data": {
+    "row_00": [
+      {
+        "text": "Property",
+        "align": "center"
+      },
+      {
+        "text": "Utility Company",
+        "align": "left"
+      },
+      {
+        "text": "Month",
+        "align": "center"
+      },
+      {
+        "text": "Amount Paid $",
+        "align": "right"
+      }
+    ],
+    "row_01": [
+      {
+        "text": "123 Main St",
+        "align": "center"
+      },
+      {
+        "text": "ABC Electric",
+        "align": "center"
+      },
+      {
+        "text": "January",
+        "align": "center"
+      },
+      {
+        "text": "$150",
+        "align": "center"
+      }
+    ],
+    "row_02": [
+      {
+        "text": "456 Elm St",
+        "align": "left"
+      },
+      {
+        "text": "XYZ Gas",
+        "align": "center"
+      },
+      {
+        "text": "January",
+        "align": "center"
+      },
+      {
+        "text": "$75",
+        "align": "center"
+      }
+    ],
+    "row_03": [
+      {
+        "text": "789 Oak St",
+        "align": "center"
+      },
+      {
+        "text": "PQR Water",
+        "align": "center"
+      },
+      {
+        "text": "January",
+        "align": "center"
+      },
+      {
+        "text": "$100",
+        "align": "center"
+      }
+    ],
+    "row_04": [
+      {
+        "text": "123 Main St",
+        "align": "center"
+      },
+      {
+        "text": "ABC Electric",
+        "align": "center"
+      },
+      {
+        "text": "February",
+        "align": "center"
+      },
+      {
+        "text": "$160",
+        "align": "center"
+      }
+    ],
+    "row_05": [
+      {
+        "text": "456 Elm St",
+        "align": "left"
+      },
+      {
+        "text": "XYZ Gas",
+        "align": "center"
+      },
+      {
+        "text": "February",
+        "align": "center"
+      },
+      {
+        "text": "$80",
+        "align": "center"
+      }
+    ],
+    "row_06": [
+      {
+        "text": "789 Oak St",
+        "align": "center"
+      },
+      {
+        "text": "PQR Water",
+        "align": "center"
+      },
+      {
+        "text": "February",
+        "align": "center"
+      },
+      {
+        "text": "$120",
+        "align": "center"
+      }
+    ],
+    "row_07": [
+      {
+        "text": "123 Main St",
+        "align": "center"
+      },
+      {
+        "text": "ABC Electric",
+        "align": "center"
+      },
+      {
+        "text": "March",
+        "align": "center"
+      },
+      {
+        "text": "$155",
+        "align": "center"
+      }
+    ],
+    "row_08": [
+      {
+        "text": "456 Elm St",
+        "align": "left"
+      },
+      {
+        "text": "XYZ Gas",
+        "align": "center"
+      },
+      {
+        "text": "March",
+        "align": "center"
+      },
+      {
+        "text": "$85",
+        "align": "center"
+      }
+    ],
+    "row_09": [
+      {
+        "text": "789 Oak St",
+        "align": "center"
+      },
+      {
+        "text": "POR Water",
+        "align": "center"
+      },
+      {
+        "text": "March",
+        "align": "center"
+      },
+      {
+        "text": "$110",
+        "align": "center"
+      }
+    ]
+  }
+}

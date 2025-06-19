@@ -1,0 +1,396 @@
+{
+  "page": 3,
+  "boxed_image": "image_5_boxed.png",
+  "data": {
+    "row_00": [
+      {
+        "text": "SR. no,",
+        "align": "right"
+      },
+      {
+        "text": "NAME OF ITEM",
+        "align": "center"
+      },
+      {
+        "text": "QUANTITY",
+        "align": "center"
+      },
+      {
+        "text": "UNIT",
+        "align": "center"
+      },
+      {
+        "text": "RATE",
+        "align": "center"
+      },
+      {
+        "text": "Per",
+        "align": "center"
+      },
+      {
+        "text": "AMOUNTRs",
+        "align": "right"
+      }
+    ],
+    "row_01": [
+      {
+        "text": "4",
+        "align": "right"
+      },
+      {
+        "text": "Excavation in foundation",
+        "align": "left"
+      },
+      {
+        "text": "39.79",
+        "align": "center"
+      },
+      {
+        "text": "om",
+        "align": "right"
+      },
+      {
+        "text": "50",
+        "align": "center"
+      },
+      {
+        "text": "m",
+        "align": "left"
+      },
+      {
+        "text": "1989.5",
+        "align": "center"
+      }
+    ],
+    "row_02": [
+      {
+        "text": "2",
+        "align": "right"
+      },
+      {
+        "text": "Cement concrete in foundatior",
+        "align": "right"
+      },
+      {
+        "text": "11.33",
+        "align": "center"
+      },
+      {
+        "text": "om",
+        "align": "right"
+      },
+      {
+        "text": "2100",
+        "align": "center"
+      },
+      {
+        "text": "om",
+        "align": "left"
+      },
+      {
+        "text": "23793",
+        "align": "center"
+      }
+    ],
+    "row_03": [
+      {
+        "text": "3",
+        "align": "right"
+      },
+      {
+        "text": "",
+        "align": "left"
+      },
+      {
+        "text": "21.8",
+        "align": "center"
+      },
+      {
+        "text": "m",
+        "align": "right"
+      },
+      {
+        "text": "2000",
+        "align": "center"
+      },
+      {
+        "text": "me",
+        "align": "left"
+      },
+      {
+        "text": "43600",
+        "align": "center"
+      }
+    ],
+    "row_04": [
+      {
+        "text": "4",
+        "align": "right"
+      },
+      {
+        "text": "mele ead couse 1:2:4",
+        "align": "left"
+      },
+      {
+        "text": "10.92",
+        "align": "center"
+      },
+      {
+        "text": "m",
+        "align": "right"
+      },
+      {
+        "text": "300",
+        "align": "center"
+      },
+      {
+        "text": "me",
+        "align": "left"
+      },
+      {
+        "text": "3276",
+        "align": "center"
+      }
+    ],
+    "row_05": [
+      {
+        "text": "5",
+        "align": "right"
+      },
+      {
+        "text": "Earth filling in plinth",
+        "align": "center"
+      },
+      {
+        "text": "14.81",
+        "align": "center"
+      },
+      {
+        "text": "om",
+        "align": "center"
+      },
+      {
+        "text": "40",
+        "align": "center"
+      },
+      {
+        "text": "m",
+        "align": "left"
+      },
+      {
+        "text": "5924",
+        "align": "center"
+      }
+    ],
+    "row_06": [
+      {
+        "text": "6",
+        "align": "right"
+      },
+      {
+        "text": "R.C.C. work for Slab 1 15:3",
+        "align": "center"
+      },
+      {
+        "text": "423",
+        "align": "center"
+      },
+      {
+        "text": "om",
+        "align": "center"
+      },
+      {
+        "text": "7000",
+        "align": "center"
+      },
+      {
+        "text": "im",
+        "align": "left"
+      },
+      {
+        "text": "29610",
+        "align": "center"
+      }
+    ],
+    "row_07": [
+      {
+        "text": "7",
+        "align": "right"
+      },
+      {
+        "text": "Brick work for steps",
+        "align": "center"
+      },
+      {
+        "text": "0.216",
+        "align": "center"
+      },
+      {
+        "text": "om",
+        "align": "center"
+      },
+      {
+        "text": "2000",
+        "align": "center"
+      },
+      {
+        "text": "mm",
+        "align": "left"
+      },
+      {
+        "text": "432",
+        "align": "center"
+      }
+    ],
+    "row_08": [
+      {
+        "text": "8",
+        "align": "center"
+      },
+      {
+        "text": "Mosaic tile for flooring",
+        "align": "center"
+      },
+      {
+        "text": "23.64",
+        "align": "center"
+      },
+      {
+        "text": "me",
+        "align": "center"
+      },
+      {
+        "text": "400",
+        "align": "center"
+      },
+      {
+        "text": "m=",
+        "align": "left"
+      },
+      {
+        "text": "o456",
+        "align": "center"
+      }
+    ],
+    "row_09": [
+      {
+        "text": "9",
+        "align": "right"
+      },
+      {
+        "text": "bin wore for doors and",
+        "align": "left"
+      },
+      {
+        "text": "19.74",
+        "align": "center"
+      },
+      {
+        "text": "om",
+        "align": "right"
+      },
+      {
+        "text": "7800",
+        "align": "center"
+      },
+      {
+        "text": "m=",
+        "align": "left"
+      },
+      {
+        "text": "153972",
+        "align": "center"
+      }
+    ],
+    "row_10": [
+      {
+        "text": "“10",
+        "align": "right"
+      },
+      {
+        "text": "Smooth plaster on inside",
+        "align": "left"
+      },
+      {
+        "text": "58.17",
+        "align": "center"
+      },
+      {
+        "text": "im",
+        "align": "right"
+      },
+      {
+        "text": "110",
+        "align": "center"
+      },
+      {
+        "text": "me",
+        "align": "left"
+      },
+      {
+        "text": "6398.7",
+        "align": "center"
+      }
+    ],
+    "row_11": [
+      {
+        "text": "11",
+        "align": "right"
+      },
+      {
+        "text": "Brick work for parapet wall 204",
+        "align": "right"
+      },
+      {
+        "text": "5.92",
+        "align": "center"
+      },
+      {
+        "text": "om",
+        "align": "right"
+      },
+      {
+        "text": "2100",
+        "align": "center"
+      },
+      {
+        "text": "m",
+        "align": "left"
+      },
+      {
+        "text": "12432",
+        "align": "center"
+      }
+    ],
+    "row_12": [
+      {
+        "text": "11",
+        "align": "right"
+      },
+      {
+        "text": "—_— EEE EO ree",
+        "align": "right"
+      },
+      {
+        "text": "a",
+        "align": "right"
+      },
+      {
+        "text": "Total Cact",
+        "align": "center"
+      },
+      {
+        "text": "Total Cact",
+        "align": "center"
+      },
+      {
+        "text": "Total Cact",
+        "align": "center"
+      },
+      {
+        "text": "285.552",
+        "align": "center"
+      }
+    ]
+  }
+}

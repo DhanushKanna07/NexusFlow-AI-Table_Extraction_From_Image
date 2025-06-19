@@ -1,0 +1,246 @@
+{
+  "page": 2,
+  "boxed_image": "image_4_boxed.png",
+  "data": {
+    "row_00": [
+      {
+        "text": "Methods",
+        "align": "center"
+      },
+      {
+        "text": "SciTSR %",
+        "align": "center"
+      },
+      {
+        "text": "SciTSR %",
+        "align": "center"
+      },
+      {
+        "text": "SciTSR %",
+        "align": "center"
+      },
+      {
+        "text": "SciTSR-COMP %",
+        "align": "center"
+      },
+      {
+        "text": "SciTSR-COMP %",
+        "align": "center"
+      },
+      {
+        "text": "SciTSR-COMP %",
+        "align": "center"
+      }
+    ],
+    "row_01": [
+      {
+        "text": "Methods",
+        "align": "center"
+      },
+      {
+        "text": "Prec.",
+        "align": "center"
+      },
+      {
+        "text": "Rec.",
+        "align": "center"
+      },
+      {
+        "text": "FI",
+        "align": "center"
+      },
+      {
+        "text": "Prec.",
+        "align": "center"
+      },
+      {
+        "text": "Rec.",
+        "align": "center"
+      },
+      {
+        "text": "FI",
+        "align": "center"
+      }
+    ],
+    "row_02": [
+      {
+        "text": "TabStruct-Net 7",
+        "align": "left"
+      },
+      {
+        "text": "92.7",
+        "align": "center"
+      },
+      {
+        "text": "91.3",
+        "align": "center"
+      },
+      {
+        "text": "92.0",
+        "align": "center"
+      },
+      {
+        "text": "90.9",
+        "align": "center"
+      },
+      {
+        "text": "88.2",
+        "align": "center"
+      },
+      {
+        "text": "89.5",
+        "align": "center"
+      }
+    ],
+    "row_03": [
+      {
+        "text": "GraphTSR 18",
+        "align": "center"
+      },
+      {
+        "text": "95.9",
+        "align": "center"
+      },
+      {
+        "text": "94.8",
+        "align": "center"
+      },
+      {
+        "text": "953",
+        "align": "center"
+      },
+      {
+        "text": "96.4",
+        "align": "center"
+      },
+      {
+        "text": "94.5",
+        "align": "center"
+      },
+      {
+        "text": "95.5",
+        "align": "center"
+      }
+    ],
+    "row_04": [
+      {
+        "text": "LGPMA 12",
+        "align": "center"
+      },
+      {
+        "text": "98.2",
+        "align": "center"
+      },
+      {
+        "text": "99.3",
+        "align": "center"
+      },
+      {
+        "text": "98.8",
+        "align": "center"
+      },
+      {
+        "text": "97.3",
+        "align": "center"
+      },
+      {
+        "text": "98.7",
+        "align": "center"
+      },
+      {
+        "text": "98.0",
+        "align": "center"
+      }
+    ],
+    "row_05": [
+      {
+        "text": "FLAG-Net 11",
+        "align": "center"
+      },
+      {
+        "text": "99.7",
+        "align": "center"
+      },
+      {
+        "text": "99.3",
+        "align": "center"
+      },
+      {
+        "text": "99.5",
+        "align": "center"
+      },
+      {
+        "text": "98.4",
+        "align": "center"
+      },
+      {
+        "text": "98.6",
+        "align": "center"
+      },
+      {
+        "text": "98.5",
+        "align": "center"
+      }
+    ],
+    "row_06": [
+      {
+        "text": "RobusTabNet 14",
+        "align": "center"
+      },
+      {
+        "text": "99.4",
+        "align": "center"
+      },
+      {
+        "text": "99.1",
+        "align": "center"
+      },
+      {
+        "text": "993",
+        "align": "center"
+      },
+      {
+        "text": "99.0",
+        "align": "center"
+      },
+      {
+        "text": "98.4",
+        "align": "center"
+      },
+      {
+        "text": "98.7",
+        "align": "center"
+      }
+    ],
+    "row_07": [
+      {
+        "text": "RFormer w/ DQ-DETR",
+        "align": "left"
+      },
+      {
+        "text": "99.5",
+        "align": "center"
+      },
+      {
+        "text": "99.3",
+        "align": "center"
+      },
+      {
+        "text": "99.4",
+        "align": "center"
+      },
+      {
+        "text": "99.1",
+        "align": "center"
+      },
+      {
+        "text": "98.6",
+        "align": "center"
+      },
+      {
+        "text": "98.8",
+        "align": "center"
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "page": 2,
+  "boxed_image": "image_3_boxed.png",
+  "data": {
+    "row_00": [
+      {
+        "text": "Metric",
+        "align": "left"
+      },
+      {
+        "text": "orem System TF",
+        "align": "left"
+      },
+      {
+        "text": "re > BERT-",
+        "align": "left"
+      }
+    ],
+    "row_01": [
+      {
+        "text": "Precision",
+        "align": "left"
+      },
+      {
+        "text": "0.62",
+        "align": "left"
+      },
+      {
+        "text": "0.88",
+        "align": "left"
+      }
+    ],
+    "row_02": [
+      {
+        "text": "Recall",
+        "align": "left"
+      },
+      {
+        "text": "0.58",
+        "align": "left"
+      },
+      {
+        "text": "0.84",
+        "align": "left"
+      }
+    ],
+    "row_03": [
+      {
+        "text": "F1 Score",
+        "align": "left"
+      },
+      {
+        "text": "0.60",
+        "align": "left"
+      },
+      {
+        "text": "0.86",
+        "align": "left"
+      }
+    ],
+    "row_04": [
+      {
+        "text": "Context",
+        "align": "left"
+      },
+      {
+        "text": "NIA taban_lewal anlw",
+        "align": "center"
+      },
+      {
+        "text": "Yes semantic, phrase-level",
+        "align": "left"
+      }
+    ],
+    "row_05": [
+      {
+        "text": "Context Understanding",
+        "align": "left"
+      },
+      {
+        "text": "pe token-level only",
+        "align": "center"
+      },
+      {
+        "text": "Yes semantic, phrase-level",
+        "align": "left"
+      }
+    ],
+    "row_06": [
+      {
+        "text": "Multilingual Support",
+        "align": "left"
+      },
+      {
+        "text": "Cpe",
+        "align": "left"
+      },
+      {
+        "text": "Strong",
+        "align": "left"
+      }
+    ],
+    "row_07": [
+      {
+        "text": "",
+        "align": "left"
+      },
+      {
+        "text": "Cpe",
+        "align": "left"
+      },
+      {
+        "text": "Strong",
+        "align": "left"
+      }
+    ]
+  }
+}

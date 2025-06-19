@@ -1,0 +1,270 @@
+{
+  "page": 4,
+  "boxed_image": "image_8_boxed.png",
+  "data": {
+    "row_00": [
+      {
+        "text": "Municipal financial year 1 July to 30 June",
+        "align": "right"
+      },
+      {
+        "text": "Nersa/Eskom municipal tariff increase",
+        "align": "left"
+      },
+      {
+        "text": "Average CPI inflation",
+        "align": "right"
+      },
+      {
+        "text": "Average increase in municipal electricity purchases",
+        "align": "left"
+      },
+      {
+        "text": "Average increase in municipal electricity sales",
+        "align": "left"
+      }
+    ],
+    "row_01": [
+      {
+        "text": "2010-2011",
+        "align": "center"
+      },
+      {
+        "text": "28,9%",
+        "align": "center"
+      },
+      {
+        "text": "3,8%",
+        "align": "center"
+      },
+      {
+        "text": "30,5%",
+        "align": "center"
+      },
+      {
+        "text": "25,0%",
+        "align": "center"
+      }
+    ],
+    "row_02": [
+      {
+        "text": "2011-2012",
+        "align": "center"
+      },
+      {
+        "text": "25,3%",
+        "align": "center"
+      },
+      {
+        "text": "5,8%",
+        "align": "center"
+      },
+      {
+        "text": "26,1%",
+        "align": "center"
+      },
+      {
+        "text": "20,2%",
+        "align": "center"
+      }
+    ],
+    "row_03": [
+      {
+        "text": "2012-2013",
+        "align": "center"
+      },
+      {
+        "text": "13,5%",
+        "align": "center"
+      },
+      {
+        "text": "5,6%",
+        "align": "center"
+      },
+      {
+        "text": "11,5%",
+        "align": "center"
+      },
+      {
+        "text": "8.6%",
+        "align": "center"
+      }
+    ],
+    "row_04": [
+      {
+        "text": "2013-2014",
+        "align": "center"
+      },
+      {
+        "text": "6,1%",
+        "align": "center"
+      },
+      {
+        "text": "6,0%",
+        "align": "center"
+      },
+      {
+        "text": "5,8%",
+        "align": "center"
+      },
+      {
+        "text": "5,0%",
+        "align": "center"
+      }
+    ],
+    "row_05": [
+      {
+        "text": "2014-2015",
+        "align": "center"
+      },
+      {
+        "text": "8,1%",
+        "align": "center"
+      },
+      {
+        "text": "5,2%",
+        "align": "center"
+      },
+      {
+        "text": "6,2%",
+        "align": "center"
+      },
+      {
+        "text": "5,7%",
+        "align": "center"
+      }
+    ],
+    "row_06": [
+      {
+        "text": "2015-2016",
+        "align": "center"
+      },
+      {
+        "text": "14,2%",
+        "align": "center"
+      },
+      {
+        "text": "5,6%",
+        "align": "center"
+      },
+      {
+        "text": "12,8%",
+        "align": "center"
+      },
+      {
+        "text": "10,6%",
+        "align": "center"
+      }
+    ],
+    "row_07": [
+      {
+        "text": "2016-2017",
+        "align": "center"
+      },
+      {
+        "text": "",
+        "align": "center"
+      },
+      {
+        "text": "6,1%",
+        "align": "center"
+      },
+      {
+        "text": "7,9%",
+        "align": "center"
+      },
+      {
+        "text": "6,5%",
+        "align": "center"
+      }
+    ],
+    "row_08": [
+      {
+        "text": "2017-2018",
+        "align": "center"
+      },
+      {
+        "text": "0,3%",
+        "align": "center"
+      },
+      {
+        "text": "4,5%",
+        "align": "center"
+      },
+      {
+        "text": "-1,8%",
+        "align": "center"
+      },
+      {
+        "text": "-1,1%",
+        "align": "center"
+      }
+    ],
+    "row_09": [
+      {
+        "text": "2018-2019",
+        "align": "center"
+      },
+      {
+        "text": "7,3%",
+        "align": "center"
+      },
+      {
+        "text": "4,6%",
+        "align": "center"
+      },
+      {
+        "text": "7,4%",
+        "align": "center"
+      },
+      {
+        "text": "6,2%",
+        "align": "center"
+      }
+    ],
+    "row_10": [
+      {
+        "text": "2019-2020",
+        "align": "center"
+      },
+      {
+        "text": "15,6%",
+        "align": "center"
+      },
+      {
+        "text": "3,7%",
+        "align": "center"
+      },
+      {
+        "text": "11,7%",
+        "align": "center"
+      },
+      {
+        "text": "6,7%",
+        "align": "center"
+      }
+    ],
+    "row_11": [
+      {
+        "text": "2020-2021",
+        "align": "center"
+      },
+      {
+        "text": "6,9%",
+        "align": "center"
+      },
+      {
+        "text": "3.5%",
+        "align": "center"
+      },
+      {
+        "text": "6,7%",
+        "align": "center"
+      },
+      {
+        "text": "4,0%",
+        "align": "center"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "page": 6,
+  "boxed_image": "image_10_boxed.png",
+  "data": {
+    "row_00": [
+      {
+        "text": "Category",
+        "align": "center"
+      },
+      {
+        "text": "Modifier",
+        "align": "center"
+      },
+      {
+        "text": "Description",
+        "align": "center"
+      }
+    ],
+    "row_01": [
+      {
+        "text": "Telehealth modifiers",
+        "align": "center"
+      },
+      {
+        "text": "ca",
+        "align": "center"
+      },
+      {
+        "text": "",
+        "align": "left"
+      }
+    ],
+    "row_02": [
+      {
+        "text": "Telehealth modifiers",
+        "align": "center"
+      },
+      {
+        "text": "GT/95",
+        "align": "center"
+      },
+      {
+        "text": "",
+        "align": "left"
+      }
+    ],
+    "row_03": [
+      {
+        "text": "Specialty care modifier",
+        "align": "left"
+      },
+      {
+        "text": "Go",
+        "align": "center"
+      },
+      {
+        "text": "Acute stroke diagnosisreatment via telehealth.",
+        "align": "center"
+      }
+    ],
+    "row_04": [
+      {
+        "text": "er? ba management",
+        "align": "center"
+      },
+      {
+        "text": "24",
+        "align": "center"
+      },
+      {
+        "text": "Unrelated Ed service curing the postoperwrs",
+        "align": "left"
+      }
+    ],
+    "row_05": [
+      {
+        "text": "Evaluation & management E/M modifiers",
+        "align": "center"
+      },
+      {
+        "text": "",
+        "align": "center"
+      },
+      {
+        "text": "",
+        "align": "center"
+      }
+    ],
+    "row_06": [
+      {
+        "text": "Evaluation & management E/M modifiers",
+        "align": "center"
+      },
+      {
+        "text": "27",
+        "align": "center"
+      },
+      {
+        "text": "Multiple outpatient E/M encounters on the same day.",
+        "align": "left"
+      }
+    ],
+    "row_07": [
+      {
+        "text": "Service component modifiers",
+        "align": "center"
+      },
+      {
+        "text": "",
+        "align": "center"
+      },
+      {
+        "text": "Selon comes ty te etworttcnr",
+        "align": "left"
+      }
+    ],
+    "row_08": [
+      {
+        "text": "Service component modifiers",
+        "align": "center"
+      },
+      {
+        "text": "te",
+        "align": "center"
+      },
+      {
+        "text": "Losier oo sonecin nee the equipment or facility",
+        "align": "center"
+      }
+    ],
+    "row_09": [
+      {
+        "text": "Procedural modifiers",
+        "align": "center"
+      },
+      {
+        "text": "31",
+        "align": "center"
+      },
+      {
+        "text": "Multiple procedures during a single session.",
+        "align": "center"
+      }
+    ],
+    "row_10": [
+      {
+        "text": "Procedural modifiers",
+        "align": "center"
+      },
+      {
+        "text": "",
+        "align": "center"
+      },
+      {
+        "text": "Racsiced serdoas. Senaon wax pertiely eaduces er",
+        "align": "left"
+      }
+    ],
+    "row_11": [
+      {
+        "text": "Procedural modifiers",
+        "align": "center"
+      },
+      {
+        "text": "",
+        "align": "center"
+      },
+      {
+        "text": "Ciecontiqued peochciieg due to unforeseen",
+        "align": "left"
+      }
+    ],
+    "row_12": [
+      {
+        "text": "Procedural modifiers",
+        "align": "center"
+      },
+      {
+        "text": "55",
+        "align": "center"
+      },
+      {
+        "text": "Postoperative management only.",
+        "align": "left"
+      }
+    ],
+    "row_13": [
+      {
+        "text": "Procedural modifiers",
+        "align": "center"
+      },
+      {
+        "text": "56",
+        "align": "center"
+      },
+      {
+        "text": "Preoperative management only.",
+        "align": "left"
+      }
+    ],
+    "row_14": [
+      {
+        "text": "Procedural modifiers",
+        "align": "center"
+      },
+      {
+        "text": "",
+        "align": "center"
+      },
+      {
+        "text": "oan proceaurat service, separate from others in",
+        "align": "left"
+      }
+    ],
+    "row_15": [
+      {
+        "text": "Procedural modifiers",
+        "align": "center"
+      },
+      {
+        "text": "76",
+        "align": "center"
+      },
+      {
+        "text": "Eeaceen peonecue Sy tie same pryeicien on me",
+        "align": "left"
+      }
+    ],
+    "row_16": [
+      {
+        "text": "",
+        "align": "unknown"
+      },
+      {
+        "text": "79",
+        "align": "center"
+      },
+      {
+        "text": "Unrelated procedure during the postoperative period",
+        "align": "right"
+      }
+    ],
+    "row_17": [
+      {
+        "text": "Laboratory modifier",
+        "align": "center"
+      },
+      {
+        "text": "91",
+        "align": "center"
+      },
+      {
+        "text": "Paar Cnnicel Gaggneeticabs ak for acemnonet",
+        "align": "left"
+      }
+    ]
+  }
+}
